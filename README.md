@@ -1,3 +1,4 @@
-#Katapon Sinpunywaong 
-#Student ID : 6010545722# ske-restaurant
 # ske-restaurant
+by Katapon Sinpunyawong
+
+ID Student : 6010545722

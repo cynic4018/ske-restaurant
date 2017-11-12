@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 /**
  * The Restaurant class.
+ * No Array No Arraylist (it's Basic)
  * @author Katapon Sinpunyawong
  */
 public class Restaurant {

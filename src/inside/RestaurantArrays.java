@@ -7,6 +7,7 @@ import java.time.LocalDate;
  * Main class for SKE Restaurant order taking application.
  * It displays a menu and accepts items to order.
  * When done, it prints a receipt including the order total.
+ * Use Array and LocalDate.
  *
  * @author Katapon Sinpunyawong
  */

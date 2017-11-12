@@ -1,0 +1,7 @@
+# @author Katapon Sinpunyawong
+# menu (price) in Restaurant
+
+Steak;		400.00;
+Pizza;			250.00;
+Chickens;			120.00;
+Coke;					45.00;

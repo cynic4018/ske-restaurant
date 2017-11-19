@@ -1,0 +1,7 @@
+#  this symbol(#) mean comment that not read
+#  inform items;price
+#  @auther Katapon Sinpunyawong
+Steak;	400.00
+Pizza;		250.00
+Chickens;			120.00
+Coke;				45.00

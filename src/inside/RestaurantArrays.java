@@ -9,6 +9,7 @@ import java.time.LocalDate;
  * When done, it prints a receipt including the order total.
  * Use Array and LocalDate.
  *
+ *
  * @author Katapon Sinpunyawong
  */
 
@@ -203,7 +204,7 @@ public class RestaurantArrays {
 		System.out.println("[p] Print order ");
 		System.out.println("[t] Total and Pay");
 		System.out.println("[x] Exit ");
-		System.out.printf("---------------------------------\n");
+		System.out.println("---------------------------------");
 		System.out.println("");
 	}
 	

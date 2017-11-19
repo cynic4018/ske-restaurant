@@ -3,7 +3,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+/**
+ * The RestaurantManager class that use in Restaurant class.
+ * 
+ * @author Katapon Sinpunyawong
+ */
 public class RestaurantManager {
 	
 static String menufile = "src/inside/data/menu.txt";
